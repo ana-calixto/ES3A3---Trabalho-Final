@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="factory.Forma"/>
+    <fullyQualifiedTypeName name="factory.Circulo"/>
+    <fullyQualifiedTypeName name="factory.Retangulo"/>
+    <fullyQualifiedTypeName name="factory.Quadrado"/>
+    <fullyQualifiedTypeName name="java.text.Normalizer.Form"/>
+    <fullyQualifiedTypeName name="factory.FormaFactory"/>
+</qualifiedTypeNameHistroy>

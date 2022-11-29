@@ -1,0 +1,10 @@
+package factory;
+
+public class TestaFactory {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
